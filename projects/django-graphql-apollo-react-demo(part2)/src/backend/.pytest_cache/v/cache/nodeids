@@ -1,0 +1,6 @@
+[
+  "simple_app/tests/test_models.py::test_message",
+  "simple_app/tests/test_schema.py::test_message_type",
+  "simple_app/tests/test_schema.py::test_resolve_message",
+  "simple_app/tests/test_schema.py::test_create_message_mutation"
+]
