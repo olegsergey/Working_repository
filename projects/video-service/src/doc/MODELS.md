@@ -12,8 +12,8 @@ UserMembership
     -membership type    (foreignkey to Membership)
 
 Subscription 
-    -user membership
-    -strip subscription id  (foreignkey to UserMembership)
+    -user membership     (foreignkey to UserMembership)
+    -strip subscription id  
     -active
 
 Course
